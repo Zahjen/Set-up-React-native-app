@@ -6,7 +6,7 @@ Dans un premier temps, on génère l'application avec la commande suivante :
 expo init app-name -t expo-template-blank-typescript
 ```
 
-On a ici intégrer la police `Poppins`. On peut installer cette Google font avec la commande suivante :
+On a ici intégré la police `Poppins`. On peut installer cette Google font avec la commande suivante :
 
 ```bash
 expo install expo-font @expo-google-fonts/poppins
